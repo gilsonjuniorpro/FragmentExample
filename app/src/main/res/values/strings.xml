@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+    <string name="title_android">Android</string>
+    <string name="title_flutter">Flutter</string>
+    <string name="title_react">React</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="android_fragment">android fragment</string>
+    <string name="flutter_fragment">flutter fragment</string>
+    <string name="react_fragment">react fragment</string>
+</resources>
